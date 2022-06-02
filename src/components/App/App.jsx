@@ -1,4 +1,4 @@
-import styles  from '../App.css'
+import styles  from '../App/App.css'
 import React, {useState} from 'react';
 
 export function App() {
